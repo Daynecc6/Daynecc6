@@ -1,0 +1,13 @@
+Hi 👋, I’m Dayne Cordray
+- I am from Southeast Iowa and currently live in Iowa City, IA
+- I am currently pursuing a B.A. in Informatics (Data Analysis/Networking) and a B.B.A. in Economics with plans to attend graduate school for a M.S. in Computer Science
+- I am interested in anything analytics, web development, cloud computing, and data science related! I also enjoy golfing, fishing, working out, and baseball!
+-Programming Languages and Skills
+  - Excel: 5+ years
+  - Python: 3 years
+  - Stata: 2 years
+  - SQL: 2 years
+  - HTML: 1 year
+  - JavaScript: 1 year
+  - AWS: 1 year
+- Check out some of my projects I have completed utilizing my computer science, data analysis, and statistics skills!
