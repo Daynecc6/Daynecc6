@@ -25,5 +25,5 @@ Hi 👋, I’m Dayne Cordray
 [1]: www.linkedin.com/in/dayne-cordray
 <br/>
 -Latest Projects
-- [Microsoft Access Database I built for the University of Iowa College of Nursing](https://github.com/immcsorley/DatabaseProject)
+- [Head to Head Arbitrage NFL Bets](https://github.com/daynecc6/Head-to-Head-Arbitrage-NFL-Bets)
 
