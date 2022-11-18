@@ -16,7 +16,8 @@ Hi 👋, I’m Dayne Cordray
 
 -📫 daynecc6@gmail.com : You can also find me on [![LinkedIn][1.1]][1].
 
--📄 Here is a link to my current [resume](https://github.com/immcsorley/Resume/blob/main/Isaac%20McSorley_Resume.pdf)
+
+-📄 Here is a link to my current [Dayne Cordray Resume 2022.docx](https://github.com/Daynecc6/Daynecc6/files/10045543/Dayne.Cordray.Resume.2022.docx)
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
