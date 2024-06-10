@@ -1,6 +1,6 @@
 Hi 👋, I’m Dayne Cordray
 - I am from Southeast Iowa and currently live in Iowa City, IA
-- I am currently pursuing a B.A. in Informatics (Data Analysis/Networking) and a B.B.A. in Economics with plans to attend graduate school for a M.S. in Computer Science
+- I am currently pursuing a M.S. in Computer Science. I hold undergraduate degrees in Economics and Informatics.
 - I am interested in anything analytics, web development, cloud computing, and data science related! I also enjoy golfing, fishing, working out, and baseball!
 
 -Programming Languages and Skills
@@ -17,7 +17,7 @@ Hi 👋, I’m Dayne Cordray
 -📫 daynecc6@gmail.com : You can also find me on [![LinkedIn][1.1]][1].
 
 
--📄 Here is a link to my current [Dayne Cordray Resume 2022.docx](https://github.com/Daynecc6/Daynecc6/files/10045543/Dayne.Cordray.Resume.2022.docx)
+-📄 Here is a link to my current [Dayne Cordray  2024.pdf](https://github.com/Daynecc6/Daynecc6/blob/main/Dayne_Cordray_2024.pdf)
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
