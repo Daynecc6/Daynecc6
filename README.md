@@ -25,5 +25,7 @@ Hi 👋, I’m Dayne Cordray
 [1]: www.linkedin.com/in/dayne-cordray
 <br/>
 -Latest Projects
+- [Cybertruck Sentiment Text Analysis](https://github.com/Daynecc6/Text-Analytics-Project)
+- [Quantitative Finance Heston Model](https://github.com/Daynecc6/Heston-Model)
 - [Head to Head Arbitrage NFL Bets](https://github.com/daynecc6/Head-to-Head-Arbitrage-NFL-Bets)
 
