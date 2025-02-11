@@ -39,7 +39,7 @@ I am from Southeast Iowa and currently live in Iowa City, IA. I am pursuing an M
 ### Latest Projects
 - [Cybertruck Sentiment Text Analysis](https://github.com/Daynecc6/Text-Analytics-Project)
 - [Quantitative Finance Heston Model](https://github.com/Daynecc6/Heston-Model)
-- [Head to Head Arbitrage NFL Bets](https://github.com/daynecc6/Head-to-Head-Arbitrage-NFL-Bets)
+- [Neural Network Classifier From Scratch](https://github.com/Daynecc6/nn-scratch/tree/main)
 
 ## Contact Me
 - 📫 daynecc6@gmail.com
